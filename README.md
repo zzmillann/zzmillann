@@ -16,11 +16,13 @@ Soy Alejandro Millán, desarrollador full-stack con experiencia construyendo apl
 
 # 📊 GitHub Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zzmillann&theme=synthwave)
+<div style="display:flex; gap:10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zzmillann&theme=synthwave" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zzmillann&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=zzmillann&theme=shades-of-purple&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzmillann&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=zzmillann&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zzmillann&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzmillann&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
