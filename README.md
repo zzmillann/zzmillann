@@ -28,13 +28,11 @@ Soy Alejandro Millán, desarrollador full-stack con experiencia construyendo apl
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zzmillann) 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://linkedin.com/in/zzmillann" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zzmillann&icon=0&color=0)](https://visitcount.itsvg.in)
