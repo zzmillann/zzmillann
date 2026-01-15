@@ -16,17 +16,10 @@ Soy Alejandro Millán, desarrollador full-stack con experiencia construyendo apl
 
 # 📊 GitHub Stats:
 
-[[](https://github-stats-alpha.vercel.app/api?username={zzmillann}&cc=000&tc=fff&ic=fff&bc=000
+| Perfil | Estadísticas | Lenguajes |
+|--------|--------------|-----------|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zzmillann&theme=synthwave) | ![](https://github-readme-stats.vercel.app/api?username=zzmillann&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://nirzak-streak-stats.vercel.app/?user=zzmillann&theme=shades-of-purple&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzmillann&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
-Where cc = Card Color
-      tc = Text Color
-      ic = Icon Color
-      bc = Border Color)](https://github-stats-alpha.vercel.app/api?username={your-github-username}&cc=000&tc=fff&ic=fff&bc=000
-
-Where cc = Card Color
-      tc = Text Color
-      ic = Icon Color
-      bc = Border Color)
 
 
 ###
