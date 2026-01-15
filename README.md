@@ -16,7 +16,12 @@ Soy Alejandro Millán, desarrollador full-stack con experiencia construyendo apl
 
 # 📊 GitHub Stats:
 
-](https://github-stats-alpha.vercel.app/api?username={zzmillann}&cc=000&tc=fff&ic=fff&bc=000
+[[](https://github-stats-alpha.vercel.app/api?username={zzmillann}&cc=000&tc=fff&ic=fff&bc=000
+
+Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color)](https://github-stats-alpha.vercel.app/api?username={your-github-username}&cc=000&tc=fff&ic=fff&bc=000
 
 Where cc = Card Color
       tc = Text Color
