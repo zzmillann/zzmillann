@@ -15,8 +15,13 @@ Soy Alejandro Millán, desarrollador full-stack con experiencia construyendo apl
 
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zzmillann&theme=synthwave)
 
+](https://github-stats-alpha.vercel.app/api?username={zzmillann}&cc=000&tc=fff&ic=fff&bc=000
+
+Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color)
 
 
 ###
