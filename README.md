@@ -16,8 +16,8 @@ Soy Alejandro Millán, desarrollador full-stack con experiencia construyendo apl
 
 # 📊 GitHub Stats:
 
-| Perfil | Estadísticas | Lenguajes |
-|--------|--------------|-----------|
+| Perfil | Estadísticas | 
+|--------|--------------|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zzmillann&theme=synthwave) | ![](https://github-readme-stats.vercel.app/api?username=zzmillann&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://nirzak-streak-stats.vercel.app/?user=zzmillann&theme=shades-of-purple&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzmillann&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 
